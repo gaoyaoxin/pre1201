@@ -32,11 +32,13 @@ perhaps the most well-educated in higher education
 ##Economy  
 
 majority: middle class  
-narrow poverty gap  
+narrow poverty gap  
+[https://pic1.zhimg.com/80d93447b36e9b6aaeb8695964e38604_b.png]
 
-##Social prevention  
 ######credit 白山云，北京市第一中级人民法院党组成员、纪检组组长：*赴日研修观感*
 --- 6 ---
+#Social structure
+##Social prevention
 --- 7 ---
 --- 8 ---
 
