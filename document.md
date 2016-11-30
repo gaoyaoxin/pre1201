@@ -48,13 +48,15 @@ narrow poverty gap  
 >耻感文化是靠外部约束力的文化,人们对估计会引起罪恶感的行为感到耻辱。这种耻辱感不会因为忏悔或服罪而消失,因而其约束力强烈而持久。  
 
 individual<->collective  
-
-##Family
-###Women's traditional role  
-
-20hrs/week leaving home DOUBLE criminal rate  
-
-######*青少年犯罪率美高日低的启示* 森武夫*犯罪心理学* 王智民*当代国外犯罪学概论* 
 --- 7 ---
---- 8 ---
+#Culture
+##Family
+####centralization->strong control with social groups(family,school, etc)
 
+>日本犯罪率低“与日本人遵守法律秩序而不太强调自我主张的倾向(有集体观念的好孩子的态度)有关。”  森武夫  
+20hrs/week leaving home DOUBLE criminal rate  
+####Women's traditional role  
+######*青少年犯罪率美高日低的启示* 森武夫*犯罪心理学* 王智民*当代国外犯罪学概论* 
+
+--- 8 single ---
+END
