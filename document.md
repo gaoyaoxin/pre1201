@@ -33,6 +33,7 @@ perhaps the most well-educated in higher education
 majority: middle class  
 narrow poverty gap  
 [Gini coefficient](pic.png)  
+
 ##Social prevention  
 
 日本出版者協議会  映画倫理委員会  日本民間放送連盟  
