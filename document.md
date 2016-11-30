@@ -1,4 +1,4 @@
---- 1 single ---
+--- 1 ---
 
 
 ## Violent Crime ##
@@ -21,16 +21,19 @@ In the FBI’s Uniform Crime Reporting (UCR) Program, violent crime is composed 
 ######credit 白山云，北京市第一中级人民法院党组成员、纪检组组长：*赴日研修观感*
 --- 4 ---
 #Education#
+
 perhaps the most well-educated in higher education  
- 
+
 ##Teacher-Civil Service System
 ##Moral education
 ######credit 吉田茂*激荡的百年史* 许华应*违法青少年犯罪问题初探*
 --- 5 ---
 #Social structure
-##Economy  
+##Economy
+
 majority: middle class  
 narrow poverty gap  
+
 ##Social prevention  
 ######credit 白山云，北京市第一中级人民法院党组成员、纪检组组长：*赴日研修观感*
 --- 6 ---
