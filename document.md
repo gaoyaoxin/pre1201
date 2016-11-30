@@ -63,4 +63,4 @@ HK STUDY 20hrs/week leaving home DOUBLE criminal rate
 ######*青少年犯罪率美高日低的启示* 森武夫*犯罪心理学* 王智民*当代国外犯罪学概论* 
 
 --- 8 single ---
-#END
+#END OF PART ONE
