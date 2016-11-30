@@ -29,7 +29,7 @@ perhaps the most well-educated in higher education
 ######credit 吉田茂*激荡的百年史* 许华应*违法青少年犯罪问题初探*
 --- 5 ---
 #Social structure
-##Economy
+##Economy  
 
 majority: middle class  
 narrow poverty gap  
