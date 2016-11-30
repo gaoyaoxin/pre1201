@@ -34,18 +34,26 @@ majority: middle class
 narrow poverty gap  
 [Gini coefficient](pic.png)  
 ##Social prevention  
-日本出版者協議会  映画倫理委員会  日本民間放送連盟
+
+日本出版者協議会  映画倫理委員会  日本民間放送連盟  
+
 ######credit 白山云  许华应
 --- 6 ---
 #Culture
 
 ##Sense of Crime/Guilt<->Sense of Shame  
+
 *The Chrysanthemum and the Sword*  Ruth Benedict  
->耻感文化是靠外部约束力的文化,人们对估计会引起罪恶感的行为感到耻辱。这种耻辱感不会因为忏悔或服罪而消失,因而其约束力强烈而持久。
+
+>耻感文化是靠外部约束力的文化,人们对估计会引起罪恶感的行为感到耻辱。这种耻辱感不会因为忏悔或服罪而消失,因而其约束力强烈而持久。  
+
 individual<->collective  
+
 ##Family
 ###Women's traditional role  
+
 20hrs/week leaving home DOUBLE criminal rate  
+
 ######*青少年犯罪率美高日低的启示* 森武夫*犯罪心理学* 王智民*当代国外犯罪学概论* 
 --- 7 ---
 --- 8 ---
