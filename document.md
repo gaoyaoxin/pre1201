@@ -30,15 +30,15 @@ perhaps the most well-educated in higher education
 --- 5 ---
 #Social structure
 ##Economy  
-
 majority: middle class  
 narrow poverty gap  
-[pic](pic.png)
-
-######credit 白山云，北京市第一中级人民法院党组成员、纪检组组长：*赴日研修观感*
+[Gini coefficient](pic.png)  
+##Social prevention  
+日本出版者協議会  映画倫理委員会  日本民間放送連盟
+######credit 白山云  许华应
 --- 6 ---
 #Social structure
-##Social prevention
+
 --- 7 ---
 --- 8 ---
 
