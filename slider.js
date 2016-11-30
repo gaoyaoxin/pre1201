@@ -21,17 +21,7 @@ var Slider = function(_target, _config){
 	}
 	article.style.position = 'absolute';
 	section.appendChild(article);
-	
-	var _mouseEvent = function(evt){
-		if(evt.ctrlKey) return;
-		if(window.getSelection().toString()) return;
-		if(evt.button == 0) _this.next();
-		else if(evt.button == 2) _this.prev();
-		evt.preventDefault();
-		return false;
-	};
-	section.addEventListener('click', _mouseEvent);
-	section.addEventListener('contextmenu', _mouseEvent);
+
 	
 	var _keyEvent = function(evt){
 		var keynum = -1;
