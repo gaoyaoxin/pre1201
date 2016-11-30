@@ -28,10 +28,10 @@ perhaps the most well-educated in higher education
 ######credit 吉田茂*激荡的百年史* 许华应*违法青少年犯罪问题初探*
 --- 5 ---
 #Social structure
-##Economy
+##Economy  
 majority: middle class  
 narrow poverty gap  
-##Social prevention
+##Social prevention  
 ######credit 白山云，北京市第一中级人民法院党组成员、纪检组组长：*赴日研修观感*
 --- 6 ---
 --- 7 ---
