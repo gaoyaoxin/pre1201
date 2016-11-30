@@ -65,4 +65,4 @@ HK STUDY 20hrs/week leaving home DOUBLE criminal rate
 
 --- 8 single ---
 #END OF PART ONE
-######Major Sources: 丁一平*从日本犯罪预防的成就看文化的犯罪预防作用
+######Major Sources: 丁一平*从日本犯罪预防的成就看文化的犯罪预防作用*
