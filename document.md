@@ -55,11 +55,12 @@ individual<->collective
 ####centralization->strong control with social groups(family,school, etc)  
 
 >日本犯罪率低“与日本人遵守法律秩序而不太强调自我主张的倾向(有集体观念的好孩子的态度)有关。”  森武夫  
-20hrs/week leaving home DOUBLE criminal rate  
+  
 
 ####Women's traditional role  
+HK STUDY 20hrs/week leaving home DOUBLE criminal rate  
 
 ######*青少年犯罪率美高日低的启示* 森武夫*犯罪心理学* 王智民*当代国外犯罪学概论* 
 
 --- 8 single ---
-END
+#END
